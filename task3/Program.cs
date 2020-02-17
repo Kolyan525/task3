@@ -39,7 +39,7 @@ namespace Files
             {
                 mid += mark[i];
             }
-            Console.WriteLine($"Middle mark for math is {(double)(mid/10)}");
+            Console.WriteLine($"Middle mark for math is {(double)(mid / 10)}");
         }
     }
 }
